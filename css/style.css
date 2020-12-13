@@ -1,0 +1,288 @@
+html {
+    background-color: rgb(33,33,33);
+    animation: none;
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    animation-name: fade-in;
+    animation-duration: 1s;
+}
+
+hr {
+    display:block;
+    margin-left: 25%;
+    background-color: #ff0000;
+    width: 50%;
+}
+
+a {
+    color: #ffa0a0;
+    text-decoration: none;
+}
+
+a:hover {
+    text-shadow: 0px 0px 8px;
+}
+
+#backgroundVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+div#center {
+    padding: 15px;
+    border-radius: 3%;
+    background-color: rgba(0,0,0, 0.8);
+    position: absolute;
+    text-align: center;
+    margin: auto;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid #ffa0a03f;
+}
+
+div#mat {
+    animation-name: slide-in;
+    animation-duration: 1s;
+    padding: 20px;
+    border-radius: 15px;
+    border: 2px solid #ffa0a03f;
+}
+
+div#mat img {
+    border-radius:25%;
+    width: 128px;
+    height: 128px;
+}
+
+table#main {
+    margin: 0 auto;
+    width: 300px;
+}
+
+th, tr {
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+div#glitch h1 {
+text-align: center;
+color: white;
+font-size: 2em;
+letter-spacing: 8px;
+font-weight: 500;
+margin: 0;
+line-height: 0;
+animation: glitch1 5s infinite;
+}
+
+div#glitch h1:nth-child(2) {
+color: #67f3da;;
+animation: glitch2 5s infinite;
+}
+
+div#glitch h1:nth-child(3) {
+color: #f16f6f;
+animation: glitch3 5s infinite;
+}
+
+/*https://codepen.io/FelixRilling/pen/vNJoMy*/
+div#glitch {
+    padding: 15px;
+}
+
+@keyframes slide-in {
+    0% {
+        transform: translateY(-50px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+@keyframes fade-in {
+    0% {
+        opacity:0%;
+    }
+    100% {
+        opacity:100%;
+    }
+}
+
+@keyframes glitch1 {
+0% {
+    transform: none;
+    opacity: 1;
+}
+7% {
+    transform: skew(-0.5deg, -0.9deg);
+    opacity: 0.75;
+}
+10% {
+    transform: none;
+    opacity: 1;
+}
+27% {
+    transform: none;
+    opacity: 1;
+}
+30% {
+    transform: skew(0.8deg, -0.1deg);
+    opacity: 0.75;
+}
+35% {
+    transform: none;
+    opacity: 1;
+}
+52% {
+    transform: none;
+    opacity: 1;
+}
+55% {
+    transform: skew(-1deg, 0.2deg);
+    opacity: 0.75;
+}
+50% {
+    transform: none;
+    opacity: 1;
+}
+72% {
+    transform: none;
+    opacity: 1;
+}
+75% {
+    transform: skew(0.4deg, 1deg);
+    opacity: 0.75;
+}
+80% {
+    transform: none;
+    opacity: 1;
+}
+100% {
+    transform: none;
+    opacity: 1;
+}
+}
+
+@keyframes glitch2 {
+0% {
+    transform: none;
+    opacity: 0.25;
+}
+7% {
+    transform: translate(-2px, -3px);
+    opacity: 0.5;
+}
+10% {
+    transform: none;
+    opacity: 0.25;
+}
+27% {
+    transform: none;
+    opacity: 0.25;
+}
+30% {
+    transform: translate(-5px, -2px);
+    opacity: 0.5;
+}
+35% {
+    transform: none;
+    opacity: 0.25;
+}
+52% {
+    transform: none;
+    opacity: 0.25;
+}
+55% {
+    transform: translate(-5px, -1px);
+    opacity: 0.5;
+}
+50% {
+    transform: none;
+    opacity: 0.25;
+}
+72% {
+    transform: none;
+    opacity: 0.25;
+}
+75% {
+    transform: translate(-2px, -6px);
+    opacity: 0.5;
+}
+80% {
+    transform: none;
+    opacity: 0.25;
+}
+100% {
+    transform: none;
+    opacity: 0.25;
+}
+}
+
+@keyframes glitch3 {
+0% {
+    transform: none;
+    opacity: 0.25;
+}
+7% {
+    transform: translate(2px, 3px);
+    opacity: 0.5;
+}
+10% {
+    transform: none;
+    opacity: 0.25;
+}
+27% {
+    transform: none;
+    opacity: 0.25;
+}
+30% {
+    transform: translate(5px, 2px);
+    opacity: 0.5;
+}
+35% {
+    transform: none;
+    opacity: 0.25;
+}
+52% {
+    transform: none;
+    opacity: 0.25;
+}
+55% {
+    transform: translate(5px, 1px);
+    opacity: 0.5;
+}
+50% {
+    transform: none;
+    opacity: 0.25;
+}
+72% {
+    transform: none;
+    opacity: 0.25;
+}
+75% {
+    transform: translate(2px, 6px);
+    opacity: 0.5;
+}
+80% {
+    transform: none;
+    opacity: 0.25;
+}
+100% {
+    transform: none;
+    opacity: 0.25;
+}
+}
