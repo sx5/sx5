@@ -5,4 +5,4 @@
 </p>
 
 
-*https://sx5.github.io/sx5/*
+*https://sx5.github.io/sx5/* #OR  "https://imexotic.xyz"
