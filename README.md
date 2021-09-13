@@ -24,5 +24,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&layout=compact&theme=gay)     
 
 
-# My Socials 🎤
-*https://imexotic.xyz*
+# My Website 🎤
+--> *https://imexotic.xyz*
