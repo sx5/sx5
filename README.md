@@ -20,7 +20,7 @@
 
 # Statistics 📈
 
-([![SX5's GitHub stats](https://github-readme-stats.vercel.app/api?username=sx5&layout=compact&theme=graywhite)])    
+![SX5's GitHub stats](https://github-readme-stats.vercel.app/api?username=sx5&layout=compact&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&layout=compact&theme=gay)     
 
 
