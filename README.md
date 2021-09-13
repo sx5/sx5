@@ -1,6 +1,3 @@
-# Welcome,
-
-### to my github, you'll find some of my public projects here
 
 
 # Discord 📱
