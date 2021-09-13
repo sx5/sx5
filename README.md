@@ -8,7 +8,6 @@
 
 
 # Languages 👨‍💻
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"> - [[C++](https://www.cplusplus.com/)]
 <img src ="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" width="40"> - [[Java](https://www.java.com/en/)]
 <img src ="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/python.svg" width="40"> - [[Python](https://www.python.org/)]
 <img src ="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/javascript.svg" width="40"> - [[Javascript](https://www.javascript.com/)]
