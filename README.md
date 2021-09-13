@@ -4,11 +4,14 @@
 <img src="https://discord.c99.nl/widget/theme-3/769621242596163607.png">
 
 
+
 # Languages 👨‍💻
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> - [[Java](https://www.java.com/en/)]
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> - [[Python](https://www.python.org/)]
 <img src ="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" width="40"> - [[Javascript](https://www.javascript.com/)]
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"> - [[PHP](https://www.php.net/)]
+ 
+ 
  
 
 # Utilities 🖥️
@@ -18,10 +21,14 @@
 <img src ="https://blog.leonhassan.co.uk/content/images/2019/06/visual-studio-code.svg" width="50"> - [[VsCode](https://code.visualstudio.com/)]
 
 
+
+
 # Statistics 📈
 
 ![SX5's GitHub stats](https://github-readme-stats.vercel.app/api?username=sx5&layout=compact&theme=graywhite)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&layout=compact&theme=gay)     
+
+
 
 
 # My Website 🎤
