@@ -26,7 +26,9 @@
 # Statistics 📈
 
 ![SX5's GitHub stats](https://github-readme-stats.vercel.app/api?username=sx5&count_private=true&show_icons=true&layout=compact&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,dotfiles&layout=compact&theme=tokyonight)     
+
+![Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&langs_count=8)](https://github.com/sx5/github-readme-stats)
+
 
 
 
