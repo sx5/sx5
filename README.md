@@ -5,7 +5,7 @@
 
 
 
-# Languages 👨‍💻
+# <p align="center">Languages 👨‍💻
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> - [[Java](https://www.java.com/en/)]
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> - [[Python](https://www.python.org/)]
 <img src ="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" width="40"> - [[Javascript](https://www.javascript.com/)]
@@ -27,7 +27,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sx5&color=blue" alt="fax" width="" height="">
 
-![SX5's GitHub stats](https://github-readme-stats.vercel.app/api?username=sx5&count_private=true&show_icons=true&layout=compact&theme=tokyonight)
+<p align="center">![SX5's GitHub stats](https://github-readme-stats.vercel.app/api?username=sx5&count_private=true&show_icons=true&layout=compact&theme=tokyonight)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,dotfiles&layout=compact&theme=tokyonight" />
 
