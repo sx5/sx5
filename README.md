@@ -26,7 +26,7 @@
 # Statistics 📈
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sx5&color=blue" alt="fax" width="" height="">
-<br>
+
 ![SX5's GitHub stats](https://github-readme-stats.vercel.app/api?username=sx5&count_private=true&show_icons=true&layout=compact&theme=tokyonight)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,dotfiles&layout=compact&theme=tokyonight" />
