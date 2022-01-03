@@ -1,14 +1,14 @@
 
 
 # Discord 📱
-<img src="https://discord.c99.nl/widget/theme-3/769621242596163607.png">
+<img src="https://discord.c99.nl/widget/theme-3/769621242596163607.png"><br><br><br>
 
 
 # Languages 👨‍💻
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> - [[Java](https://www.java.com/en/)]
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> - [[Python](https://www.python.org/)]
 <img src ="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" width="40"> - [[Javascript](https://www.javascript.com/)]
-<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"> - [[PHP](https://www.php.net/)]
+<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"> - [[PHP](https://www.php.net/)]<br><br><br>
  
 # Utilities 🖥️
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"> - [[Node.js](https://nodejs.org/en/)]
@@ -23,7 +23,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,dotfiles&layout=compact&theme=tokyonight" />
 
-<img src="https://komarev.com/ghpvc/?username=sx5&color=blue" alt="fax" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=sx5&color=blue" alt="fax" width="" height=""><br><br><br>
 
 
 # <p align="center">My Website 🎤
