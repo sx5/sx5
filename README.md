@@ -5,7 +5,7 @@
 
 
 
-_
+>
 # Languages 👨‍💻
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> - [[Java](https://www.java.com/en/)]
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> - [[Python](https://www.python.org/)]
