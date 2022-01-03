@@ -25,7 +25,7 @@
 
 # Statistics 📈
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sx5&color=black" alt="fax" width="" height="">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sx5&color=blue" alt="fax" width="" height="">
 <br>
 ![SX5's GitHub stats](https://github-readme-stats.vercel.app/api?username=sx5&count_private=true&show_icons=true&layout=compact&theme=tokyonight)
 
