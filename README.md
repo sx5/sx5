@@ -16,7 +16,7 @@
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="50"> - [[Atom](https://atom.io/)]
   <img src ="https://blog.leonhassan.co.uk/content/images/2019/06/visual-studio-code.svg" width="50"> - [[VsCode](https://code.visualstudio.com/)]
 
-
+<br>
 # Statistics 📈
 
 ![SX5's GitHub stats](https://github-readme-stats.vercel.app/api?username=sx5&count_private=true&show_icons=true&layout=compact&theme=tokyonight)
