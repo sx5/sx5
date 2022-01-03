@@ -9,7 +9,7 @@
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> - [[Java](https://www.java.com/en/)]
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> - [[Python](https://www.python.org/)]
 <img src ="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" width="40"> - [[Javascript](https://www.javascript.com/)]
-<align="center" img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"> - [[PHP](https://www.php.net/)]
+<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"> - [[PHP](https://www.php.net/)]
  
  
  
