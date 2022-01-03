@@ -2,9 +2,10 @@
 
 # Discord 📱
 <img src="https://discord.c99.nl/widget/theme-3/769621242596163607.png">
-#
 
 
+
+_
 # Languages 👨‍💻
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> - [[Java](https://www.java.com/en/)]
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> - [[Python](https://www.python.org/)]
