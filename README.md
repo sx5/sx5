@@ -23,7 +23,7 @@
 
 
 
-# Statistics 📈
+# <p align="center"> Statistics 📈
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sx5&color=blue" alt="fax" width="" height="">
 
