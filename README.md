@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"> - [[Node.js](https://nodejs.org/en/)]
   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" width="50"> - [[MongoDB](https://www.mongodb.com/)]
   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="50"> - [[Atom](https://atom.io/)]
-  <img src ="https://blog.leonhassan.co.uk/content/images/2019/06/visual-studio-code.svg" width="50"> - [[VsCode](https://code.visualstudio.com/)]<br>
+  <img src ="https://blog.leonhassan.co.uk/content/images/2019/06/visual-studio-code.svg" width="50"> - [[VsCode](https://code.visualstudio.com/)]<br><br><br>
 
 
 # Statistics 📈
