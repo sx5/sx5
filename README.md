@@ -27,4 +27,4 @@
 
 
 # <p align="center"> My Website 🎤
-<p align="center">https://imexotic.xyz
+<p align="center">https://exotic.lol/
