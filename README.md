@@ -19,9 +19,9 @@
 
 # Statistics 📈
 
-![SX5's GitHub stats](https://github-readme-stats.vercel.app/api?username=sx5&count_private=true&show_icons=true&layout=compact&theme=tokyonight)
+| <a href="https://github.com/sx5/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sx5&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sx5's github stats" /></a> | <a href="https://github.com/sx5/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&count_private=true&langs_count=7&hide=html&exclude_repo=alarmclock-esp,aosp-calculator,dotfiles&layout=compact&theme=tokyonight" />
 
 <img src="https://komarev.com/ghpvc/?username=sx5&color=blue" alt="fax" width="" height=""><br><br><br>
 
