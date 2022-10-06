@@ -23,7 +23,7 @@
 | ------------- | ------------- |
 
 
-<img src="https://komarev.com/ghpvc/?username=sx5&color=blue" alt="fax" width="" height=""><br><br><br>
+<img src="https://komarev.com/ghpvc/?username=sx5&color=purple" alt="fax" width="" height=""><br><br><br>
 
 
 # <p align="center"> My Website 🎤
