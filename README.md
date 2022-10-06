@@ -19,11 +19,11 @@
 
 # Statistics 📈
 
-| <a href="https://github.com/sx5/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sx5&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sx5's github stats" /></a> | <a href="https://github.com/sx5/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sx5/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sx5&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="sx5's github stats" /></a> | <a href="https://github.com/sx5/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sx5&layout=compact&theme=midnight-purple&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
-<img src="https://komarev.com/ghpvc/?username=sx5&color=purple" alt="fax" width="" height=""><br><br><br>
+<img src="https://komarev.com/ghpvc/?username=sx5&color=blueviolet" alt="fax" width="" height=""><br><br><br>
 
 
 # <p align="center"> My Website 🎤
